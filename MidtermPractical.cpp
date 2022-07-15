@@ -127,7 +127,7 @@ int main()
         }
         else if (points == 3)
         {
-            cout << "75" << endl;
+            cout << "75% SO CLOSE" << endl;
         }
         else if (points == 4)
         {
